@@ -22,5 +22,5 @@ SharpLDAP.exe dcname.local Users
 <br>
 Enumerating Computers:<br>
 ``
-SharpLDAP.exe dcname.local Computers:<br>
+SharpLDAP.exe dcname.local Computers
 ``
