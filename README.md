@@ -5,7 +5,8 @@ SharpLDAP is a tool writting in C# that aims to do enumeration via LDAP queries
 
 ## USAGE
 
-Custom Querying:<br>
+Custom Querying:<br><br>
+![image](https://user-images.githubusercontent.com/48562581/202072521-18826f16-ce6a-46f0-bc25-62e56ddff289.png)
 
 SharpLDAP.exe dcname.local Custom query<br>
 ```
