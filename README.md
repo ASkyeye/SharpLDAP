@@ -10,12 +10,16 @@ Custom Querying:<br><br>
 
 SharpLDAP.exe dcname.local Custom query<br>
 ```
-Example1: SharpLDAP.exe redlab.local Custom (objectCategory=user)(objectClass=user))
+Example 1 Retrieve Users: SharpLDAP.exe redlab.local Custom (objectCategory=user)(objectClass=user))
 ```
 <br>
 
 ```
-Example2: SharpLDAP.exe redlab.local Custom (objectClass=computer))
+Example 2 Computers: SharpLDAP.exe redlab.local Custom (objectClass=computer))
+```
+
+```
+Example 3 Find Computer by name: SharpLDAP.exe redlab.local Custom (objectclass=computer)(name=*red*))
 ```
 <br>
 <br>
