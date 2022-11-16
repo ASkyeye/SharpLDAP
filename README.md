@@ -5,6 +5,16 @@ SharpLDAP is a tool writting in C# that aims to do enumeration via LDAP queries
 
 ## USAGE
 
+Enumerating Domain Admins:<br>
+``
+SharpLDAP.exe dcname.local DA
+``
+<br>
+Enumerating Enterprise Admins:<br>
+``
+SharpLDAP.exe dcname.local EA
+``
+<br>
 Enumerating Users:<br>
 ``
 SharpLDAP.exe dcname.local Users
