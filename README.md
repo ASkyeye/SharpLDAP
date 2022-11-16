@@ -17,6 +17,7 @@ Example 1 Retrieve Users: SharpLDAP.exe redlab.local Custom (objectCategory=user
 ```
 Example 2 Computers: SharpLDAP.exe redlab.local Custom (objectClass=computer))
 ```
+<br>
 
 ```
 Example 3 Find Computer by name: SharpLDAP.exe redlab.local Custom (objectclass=computer)(name=*red*))
