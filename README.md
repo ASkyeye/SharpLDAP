@@ -24,3 +24,8 @@ Enumerating Computers:<br>
 ``
 SharpLDAP.exe dcname.local Computers
 ``
+<br>
+Enumerating Organizational Units:<br>
+``
+SharpLDAP.exe dcname.local Ou
+``
