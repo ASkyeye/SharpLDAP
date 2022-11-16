@@ -15,6 +15,11 @@ Enumerating Enterprise Admins:<br>
 SharpLDAP.exe dcname.local EA
 ``
 <br>
+Enumerating Members of Spesific Group:<br>
+``
+SharpLDAP.exe dcname.local GroupMembers "Group Name"
+``
+<br>
 Enumerating Users:<br>
 ``
 SharpLDAP.exe dcname.local Users
