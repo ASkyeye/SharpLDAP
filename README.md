@@ -21,6 +21,10 @@ Enumerating Domain Computers:<br>
 ```
 SharpLDAP.exe dcname.local DC
 ```
+Enumerating Service Accounts:<br>
+```
+SharpLDAP.exe dcname.local SERVICE
+```
 Enumerating Members of Spesific Group:<br>
 ```
 SharpLDAP.exe dcname.local GroupMembers "Group Name"
