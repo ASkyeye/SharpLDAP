@@ -15,7 +15,10 @@ SharpLDAP.exe dcname.local EA
 ```
 Enumerating Organizational Units:<br>
 ```
-SharpLDAP.exe dcname.local Ou
+```
+Enumerating Domain Computers:<br>
+```
+SharpLDAP.exe dcname.local DC
 ```
 Enumerating Members of Spesific Group:<br>
 ```
