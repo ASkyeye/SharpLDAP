@@ -5,8 +5,10 @@ SharpLDAP is a tool written in C# that aims to do enumeration via LDAP queries
 
 ## USAGE
 
-SharLDAP can be used with custom queries with "CUSTOM" parameter or with the parameters specified below.
-Sending Custom Queries:
+SharpLDAP can be used with custom queries with "CUSTOM" parameter or with the parameters specified below.<br>
+
+Also can be used with standalone executable or Cobalt Strike's execute-assembly.<br>
+<br>Sending Custom Queries:
 ```
 SharpLDAP.exe dcname.local CUSTOM "LDAPQUERY" 
 ex: SharpLDAP.exe dcname.local CUSTOM "(&(objectCategory=Computer)(userAccountControl:1.2.840.113556.1.4.803:=8192))"
