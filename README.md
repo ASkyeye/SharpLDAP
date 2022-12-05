@@ -43,4 +43,4 @@ Enumerating Computers:<br>
 SharpLDAP.exe dcname.local Computers
 ```
 
-![image](https://user-images.githubusercontent.com/48562581/202061112-e176ce22-894f-43bb-a049-98b39ac648c4.png)
+![image](https://user-images.githubusercontent.com/48562581/205728693-840a87e6-eaec-4757-92b0-3206f6852de1.png)
