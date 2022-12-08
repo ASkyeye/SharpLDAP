@@ -1,8 +1,0 @@
-C:\Users\Mert\source\repos\SharpLDAP\SharpLDAP\bin\Release\SharpLDAP.exe.config
-C:\Users\Mert\source\repos\SharpLDAP\SharpLDAP\bin\Release\SharpLDAP.exe
-C:\Users\Mert\source\repos\SharpLDAP\SharpLDAP\bin\Release\SharpLDAP.pdb
-C:\Users\Mert\source\repos\SharpLDAP\SharpLDAP\obj\Release\SharpLDAP.csproj.AssemblyReference.cache
-C:\Users\Mert\source\repos\SharpLDAP\SharpLDAP\obj\Release\SharpLDAP.csproj.SuggestedBindingRedirects.cache
-C:\Users\Mert\source\repos\SharpLDAP\SharpLDAP\obj\Release\SharpLDAP.csproj.CoreCompileInputs.cache
-C:\Users\Mert\source\repos\SharpLDAP\SharpLDAP\obj\Release\SharpLDAP.exe
-C:\Users\Mert\source\repos\SharpLDAP\SharpLDAP\obj\Release\SharpLDAP.pdb
