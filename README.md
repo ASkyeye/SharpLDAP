@@ -25,7 +25,7 @@ Enumerating Organizational Units:<br>
 ```
 SharpLDAP.exe dcname.local Ou
 ```
-Enumerating Domain Computers:<br>
+Enumerating Domain Controllers:<br>
 ```
 SharpLDAP.exe dcname.local DC
 ```
