@@ -21,7 +21,6 @@ namespace SharpLDAP.Enum
             {
 
                 string groupname = args[2];
-                // find a user
                 using (var group = GroupPrincipal.FindByIdentity(ctx, args[2]))
                 {
                     if (group == null)
